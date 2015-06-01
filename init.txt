@@ -1,0 +1,27 @@
+#####################################################################
+#####################################################################
+##                                                                 ##
+##           Configuration File for Liberal Crime Squad            ##
+##                                                                 ##
+#####################################################################
+#####################################################################
+
+#####################################################################
+##                        Interface Options                        ##
+#####################################################################
+
+#Leave this to use [ and ] to page through menus
+    pagekeys=brackets
+
+#Uncomment to use . and / and add other AZERTY keyboard improvements
+    #pagekeys=AZERTY
+
+#Uncomment to use PGUP and PGDOWN (doesn't work for many people)
+    #pagekeys=page
+
+#Uncomment this to disable saving between days
+    #autosave=Off
+
+#Uncomment this to temporarily disable ClearType when the game is running
+#This fixes glitches in the display, thin vertical lines, a bug in ClearType
+    #fixcleartype=On
