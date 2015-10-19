@@ -7,7 +7,7 @@ AC_PREREQ(2.6)
 AC_INIT([crimesquad], [4.07.5],[jonathansfox@users.sourceforge.net])
 AC_CONFIG_SRCDIR([src/cursesgraphics.cpp])
 AC_CONFIG_HEADER([config.h])
-AM_INIT_AUTOMAKE
+AM_INIT_AUTOMAKE([subdir-objects])
 # Checks for programs.
 AC_PROG_CC
 AC_PROG_CXX
